@@ -1,0 +1,11 @@
+HandsfreePulse	KEYWORD1
+disconnect	KEYWORD2
+resetPrescaler	KEYWORD2
+init	KEYWORD2
+pulse	KEYWORD2
+pulseFast	KEYWORD2
+pulseClockedWithTpin	KEYWORD2
+RestartMillisMicros	KEYWORD2
+ReturnAvailablePrescalers	KEYWORD2
+ReturnMaximumDividerValue	KEYWORD2
+FirstRunningPrescaler	LITERAL1
